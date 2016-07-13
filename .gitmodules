@@ -1,0 +1,3 @@
+[submodule "Android.Ed25519"]
+	path = Android.Ed25519
+	url = https://github.com/dazoe/Android.Ed25519.git
